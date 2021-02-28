@@ -2,7 +2,7 @@
 
 ## Description
 
-**matrix_factorization_for_recommendations** uses SVD to find latent features related to the movies and customers.
+**matrix_factorization_for_recommendations** uses SVD to find latent features related to the movies and customers, and use these to recommend movies.
 
 ## Dependencies
 
