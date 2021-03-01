@@ -14,15 +14,12 @@ matrix_factorization_for_recommendations requires:
 ## Folder Descriptions
 
 1. [notebooks](https://github.com/joshua-furtado/matrix_factorization_for_recommendations/tree/main/notebooks)
-Contains the following Jupyter notebooks:  
-	- 1_Intro_to_SVD.ipynb
-		- Use NumPy's built-in SVD functionality
-	- 2_Implementing_FunkSVD.ipynb
-		- Implement gradient descent based FunkSVD
-	- 3_How_Are_We_Doing.ipynb
-		- Fit FunkSVD on training data and test on validation data
-	- 4_Cold_Start_Problem.ipynb
-		- Fix the cold start problem by blending in other recommendation system techniques such as knowledge and content based.
+
+	- Contains the following Jupyter notebooks:  
+		- 1_Intro_to_SVD.ipynb: Use NumPy's built-in SVD functionality
+		- 2_Implementing_FunkSVD.ipynb: Implement gradient descent based FunkSVD
+		- 3_How_Are_We_Doing.ipynb: Fit FunkSVD on training data and test on validation data
+		- 4_Cold_Start_Problem.ipynb: Fix the cold start problem by blending in other recommendation system techniques such as knowledge and content based.
 
 2. [recommender_system](https://github.com/joshua-furtado/matrix_factorization_for_recommendations/tree/main/recommender_system)
 
